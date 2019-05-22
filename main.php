@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> MY TRIAL WEB </title>
+	 <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style>
+  .bg-1 { 
+      background-color: #708090;
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #A9A9A9;
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #C0C0C0;
+      color: white;
+  }
+  .bg-4 { 
+      background-color: #000000;
+      color: white;
+  }
+  </style>
+</head>
+
+<body style="width:100%">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="main.php">My Trial Website</a>
+    </div>
+    <ul class="nav navbar-nav">
+     
+    </ul>
+  </div>
+</nav>
+	<div class="container text-center" style="margin-top:6em">
+	<div class="container-fluid bg-1 text-center">
+  <h3>DATA DIRI</h3>
+  <img src="images/deliann.jpg" class="img-circle" alt="Bird" width="20%" height="30%">
+  <h3>Github: dhelianaan
+  E-mail:dhelianaan@gmail.com </h3>
+</div>
+
+<div class="container-fluid bg-2 text-center">
+  <h3>NAMA</h3>
+  <p>Dhelian ASHwan</p>
+</div>
+
+<div class="container-fluid bg-3 text-center">
+  <h3>NIM</h3>
+  	<p>175610030</p>
+</div>
+
+	</div>
+<footer class="container-fluid bg-4 text-center" style="margin-top:4em">
+  <p>copyright © 2019 Dhelian Ashwan | dhelianaan@gmail.com | Desain Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
+</footer>
+		
+</body>
+
+</html>
+		
